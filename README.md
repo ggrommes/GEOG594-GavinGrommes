@@ -1,6 +1,6 @@
-"# GEOG594-GavinGrommes" 
+# GEOG594-GavinGrommes 
 
-**Gavin Grommes**
+*Gavin Grommes*
 
 http://map.sdsu.edu/bigdata/
 
